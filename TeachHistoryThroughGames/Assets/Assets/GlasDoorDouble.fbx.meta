@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: a6e7ed475a7361d4eb6509853b06fc02
+timeCreated: 1606422178
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GlasDoorDouble
+    100004: pasted__Rectangular Mullion 50mm x 150mm [556881]
+    100006: pasted__Rectangular Mullion 50mm x 150mm [556882]
+    100008: pasted__Rectangular Mullion 50mm x 150mm [556883]
+    100010: pasted__Rectangular Mullion 50mm x 150mm [556884]
+    100012: pasted__Rectangular Mullion 50mm x 150mm [556885]
+    100014: pasted__Rectangular Mullion 50mm x 150mm [556886]
+    100016: pasted__Rectangular Mullion 50mm x 150mm [556887]
+    100018: pasted__Rectangular Mullion 50mm x 150mm [556895]
+    100020: pasted__Rectangular Mullion 50mm x 150mm [556896]
+    100022: pasted__Rectangular Mullion 50mm x 150mm [556897]
+    100024: pasted__Rectangular Mullion 50mm x 150mm [556898]
+    100026: pasted__Rectangular Mullion 50mm x 150mm [556899]
+    100028: pasted__Rectangular Mullion 50mm x 150mm [556900]
+    100030: pasted__Rectangular Mullion 50mm x 150mm [556901]
+    100032: pasted__Rectangular Mullion 50mm x 150mm [556915]
+    100034: pasted__Rectangular Mullion 50mm x 150mm [556916]
+    100036: pasted__Rectangular Mullion 50mm x 150mm [556918]
+    100038: pasted__Rectangular Mullion 50mm x 150mm [556926]
+    100040: pasted__Rectangular Mullion 50mm x 150mm [556927]
+    100042: pasted__Rectangular Mullion 50mm x 150mm [556933]
+    100044: pasted__Rectangular Mullion 50mm x 150mm [556945]
+    100046: pasted__Rectangular Mullion 50mm x 150mm [556952]
+    100048: pasted__Rectangular Mullion 50mm x 150mm [556953]
+    100050: pasted__Rectangular Mullion 50mm x 150mm [556959]
+    100052: pasted__Rectangular Mullion 50mm x 150mm [556960]
+    100054: pasted__Rectangular Mullion 50mm x 150mm [556971]
+    100056: pasted__Rectangular Mullion 50mm x 150mm [556972]
+    100058: pasted__Rectangular Mullion 50mm x 150mm [556973]
+    100060: pasted__Rectangular Mullion 50mm x 150mm [556974]
+    100062: pasted__Rectangular Mullion 50mm x 150mm [556980]
+    100064: pasted__Rectangular Mullion 50mm x 150mm [556981]
+    100066: pasted__System Panel Glazed [556000]
+    100068: pasted__System Panel Glazed [556045]
+    100070: pasted__System Panel Glazed [556209]
+    100072: pasted__System Panel Glazed [556250]
+    100074: pasted__System Panel Glazed [556450]
+    100076: pasted__System Panel Glazed [556451]
+    100078: pasted__System Panel Glazed [556452]
+    100080: pasted__System Panel Glazed [556453]
+    100082: pasted__System Panel Glazed [556454]
+    100084: pasted__System Panel Glazed [556737]
+    100086: pasted__System Panel Glazed [556738]
+    100088: pasted__System Panel Glazed [556807]
+    100090: pasted__System Panel Glazed [556808]
+    400000: GlasDoorDouble
+    400002: //RootNode
+    400004: pasted__Rectangular Mullion 50mm x 150mm [556881]
+    400006: pasted__Rectangular Mullion 50mm x 150mm [556882]
+    400008: pasted__Rectangular Mullion 50mm x 150mm [556883]
+    400010: pasted__Rectangular Mullion 50mm x 150mm [556884]
+    400012: pasted__Rectangular Mullion 50mm x 150mm [556885]
+    400014: pasted__Rectangular Mullion 50mm x 150mm [556886]
+    400016: pasted__Rectangular Mullion 50mm x 150mm [556887]
+    400018: pasted__Rectangular Mullion 50mm x 150mm [556895]
+    400020: pasted__Rectangular Mullion 50mm x 150mm [556896]
+    400022: pasted__Rectangular Mullion 50mm x 150mm [556897]
+    400024: pasted__Rectangular Mullion 50mm x 150mm [556898]
+    400026: pasted__Rectangular Mullion 50mm x 150mm [556899]
+    400028: pasted__Rectangular Mullion 50mm x 150mm [556900]
+    400030: pasted__Rectangular Mullion 50mm x 150mm [556901]
+    400032: pasted__Rectangular Mullion 50mm x 150mm [556915]
+    400034: pasted__Rectangular Mullion 50mm x 150mm [556916]
+    400036: pasted__Rectangular Mullion 50mm x 150mm [556918]
+    400038: pasted__Rectangular Mullion 50mm x 150mm [556926]
+    400040: pasted__Rectangular Mullion 50mm x 150mm [556927]
+    400042: pasted__Rectangular Mullion 50mm x 150mm [556933]
+    400044: pasted__Rectangular Mullion 50mm x 150mm [556945]
+    400046: pasted__Rectangular Mullion 50mm x 150mm [556952]
+    400048: pasted__Rectangular Mullion 50mm x 150mm [556953]
+    400050: pasted__Rectangular Mullion 50mm x 150mm [556959]
+    400052: pasted__Rectangular Mullion 50mm x 150mm [556960]
+    400054: pasted__Rectangular Mullion 50mm x 150mm [556971]
+    400056: pasted__Rectangular Mullion 50mm x 150mm [556972]
+    400058: pasted__Rectangular Mullion 50mm x 150mm [556973]
+    400060: pasted__Rectangular Mullion 50mm x 150mm [556974]
+    400062: pasted__Rectangular Mullion 50mm x 150mm [556980]
+    400064: pasted__Rectangular Mullion 50mm x 150mm [556981]
+    400066: pasted__System Panel Glazed [556000]
+    400068: pasted__System Panel Glazed [556045]
+    400070: pasted__System Panel Glazed [556209]
+    400072: pasted__System Panel Glazed [556250]
+    400074: pasted__System Panel Glazed [556450]
+    400076: pasted__System Panel Glazed [556451]
+    400078: pasted__System Panel Glazed [556452]
+    400080: pasted__System Panel Glazed [556453]
+    400082: pasted__System Panel Glazed [556454]
+    400084: pasted__System Panel Glazed [556737]
+    400086: pasted__System Panel Glazed [556738]
+    400088: pasted__System Panel Glazed [556807]
+    400090: pasted__System Panel Glazed [556808]
+    2300000: GlasDoorDouble
+    2300002: pasted__Rectangular Mullion 50mm x 150mm [556881]
+    2300004: pasted__Rectangular Mullion 50mm x 150mm [556882]
+    2300006: pasted__Rectangular Mullion 50mm x 150mm [556883]
+    2300008: pasted__Rectangular Mullion 50mm x 150mm [556884]
+    2300010: pasted__Rectangular Mullion 50mm x 150mm [556885]
+    2300012: pasted__Rectangular Mullion 50mm x 150mm [556886]
+    2300014: pasted__Rectangular Mullion 50mm x 150mm [556887]
+    2300016: pasted__Rectangular Mullion 50mm x 150mm [556895]
+    2300018: pasted__Rectangular Mullion 50mm x 150mm [556896]
+    2300020: pasted__Rectangular Mullion 50mm x 150mm [556897]
+    2300022: pasted__Rectangular Mullion 50mm x 150mm [556898]
+    2300024: pasted__Rectangular Mullion 50mm x 150mm [556899]
+    2300026: pasted__Rectangular Mullion 50mm x 150mm [556900]
+    2300028: pasted__Rectangular Mullion 50mm x 150mm [556901]
+    2300030: pasted__Rectangular Mullion 50mm x 150mm [556915]
+    2300032: pasted__Rectangular Mullion 50mm x 150mm [556916]
+    2300034: pasted__Rectangular Mullion 50mm x 150mm [556918]
+    2300036: pasted__Rectangular Mullion 50mm x 150mm [556926]
+    2300038: pasted__Rectangular Mullion 50mm x 150mm [556927]
+    2300040: pasted__Rectangular Mullion 50mm x 150mm [556933]
+    2300042: pasted__Rectangular Mullion 50mm x 150mm [556945]
+    2300044: pasted__Rectangular Mullion 50mm x 150mm [556952]
+    2300046: pasted__Rectangular Mullion 50mm x 150mm [556953]
+    2300048: pasted__Rectangular Mullion 50mm x 150mm [556959]
+    2300050: pasted__Rectangular Mullion 50mm x 150mm [556960]
+    2300052: pasted__Rectangular Mullion 50mm x 150mm [556971]
+    2300054: pasted__Rectangular Mullion 50mm x 150mm [556972]
+    2300056: pasted__Rectangular Mullion 50mm x 150mm [556973]
+    2300058: pasted__Rectangular Mullion 50mm x 150mm [556974]
+    2300060: pasted__Rectangular Mullion 50mm x 150mm [556980]
+    2300062: pasted__Rectangular Mullion 50mm x 150mm [556981]
+    2300064: pasted__System Panel Glazed [556000]
+    2300066: pasted__System Panel Glazed [556045]
+    2300068: pasted__System Panel Glazed [556209]
+    2300070: pasted__System Panel Glazed [556250]
+    2300072: pasted__System Panel Glazed [556450]
+    2300074: pasted__System Panel Glazed [556451]
+    2300076: pasted__System Panel Glazed [556452]
+    2300078: pasted__System Panel Glazed [556453]
+    2300080: pasted__System Panel Glazed [556454]
+    2300082: pasted__System Panel Glazed [556737]
+    2300084: pasted__System Panel Glazed [556738]
+    2300086: pasted__System Panel Glazed [556807]
+    2300088: pasted__System Panel Glazed [556808]
+    3300000: GlasDoorDouble
+    3300002: pasted__Rectangular Mullion 50mm x 150mm [556881]
+    3300004: pasted__Rectangular Mullion 50mm x 150mm [556882]
+    3300006: pasted__Rectangular Mullion 50mm x 150mm [556883]
+    3300008: pasted__Rectangular Mullion 50mm x 150mm [556884]
+    3300010: pasted__Rectangular Mullion 50mm x 150mm [556885]
+    3300012: pasted__Rectangular Mullion 50mm x 150mm [556886]
+    3300014: pasted__Rectangular Mullion 50mm x 150mm [556887]
+    3300016: pasted__Rectangular Mullion 50mm x 150mm [556895]
+    3300018: pasted__Rectangular Mullion 50mm x 150mm [556896]
+    3300020: pasted__Rectangular Mullion 50mm x 150mm [556897]
+    3300022: pasted__Rectangular Mullion 50mm x 150mm [556898]
+    3300024: pasted__Rectangular Mullion 50mm x 150mm [556899]
+    3300026: pasted__Rectangular Mullion 50mm x 150mm [556900]
+    3300028: pasted__Rectangular Mullion 50mm x 150mm [556901]
+    3300030: pasted__Rectangular Mullion 50mm x 150mm [556915]
+    3300032: pasted__Rectangular Mullion 50mm x 150mm [556916]
+    3300034: pasted__Rectangular Mullion 50mm x 150mm [556918]
+    3300036: pasted__Rectangular Mullion 50mm x 150mm [556926]
+    3300038: pasted__Rectangular Mullion 50mm x 150mm [556927]
+    3300040: pasted__Rectangular Mullion 50mm x 150mm [556933]
+    3300042: pasted__Rectangular Mullion 50mm x 150mm [556945]
+    3300044: pasted__Rectangular Mullion 50mm x 150mm [556952]
+    3300046: pasted__Rectangular Mullion 50mm x 150mm [556953]
+    3300048: pasted__Rectangular Mullion 50mm x 150mm [556959]
+    3300050: pasted__Rectangular Mullion 50mm x 150mm [556960]
+    3300052: pasted__Rectangular Mullion 50mm x 150mm [556971]
+    3300054: pasted__Rectangular Mullion 50mm x 150mm [556972]
+    3300056: pasted__Rectangular Mullion 50mm x 150mm [556973]
+    3300058: pasted__Rectangular Mullion 50mm x 150mm [556974]
+    3300060: pasted__Rectangular Mullion 50mm x 150mm [556980]
+    3300062: pasted__Rectangular Mullion 50mm x 150mm [556981]
+    3300064: pasted__System Panel Glazed [556000]
+    3300066: pasted__System Panel Glazed [556045]
+    3300068: pasted__System Panel Glazed [556209]
+    3300070: pasted__System Panel Glazed [556250]
+    3300072: pasted__System Panel Glazed [556450]
+    3300074: pasted__System Panel Glazed [556451]
+    3300076: pasted__System Panel Glazed [556452]
+    3300078: pasted__System Panel Glazed [556453]
+    3300080: pasted__System Panel Glazed [556454]
+    3300082: pasted__System Panel Glazed [556737]
+    3300084: pasted__System Panel Glazed [556738]
+    3300086: pasted__System Panel Glazed [556807]
+    3300088: pasted__System Panel Glazed [556808]
+    4300000: GlasDoorDouble
+    4300002: pasted__System Panel Glazed [556000]
+    4300004: pasted__System Panel Glazed [556045]
+    4300006: pasted__System Panel Glazed [556209]
+    4300008: pasted__System Panel Glazed [556250]
+    4300010: pasted__System Panel Glazed [556450]
+    4300012: pasted__System Panel Glazed [556451]
+    4300014: pasted__System Panel Glazed [556452]
+    4300016: pasted__System Panel Glazed [556453]
+    4300018: pasted__System Panel Glazed [556454]
+    4300020: pasted__System Panel Glazed [556737]
+    4300022: pasted__System Panel Glazed [556738]
+    4300024: pasted__System Panel Glazed [556807]
+    4300026: pasted__System Panel Glazed [556808]
+    4300028: pasted__Rectangular Mullion 50mm x 150mm [556881]
+    4300030: pasted__Rectangular Mullion 50mm x 150mm [556882]
+    4300032: pasted__Rectangular Mullion 50mm x 150mm [556883]
+    4300034: pasted__Rectangular Mullion 50mm x 150mm [556884]
+    4300036: pasted__Rectangular Mullion 50mm x 150mm [556885]
+    4300038: pasted__Rectangular Mullion 50mm x 150mm [556886]
+    4300040: pasted__Rectangular Mullion 50mm x 150mm [556887]
+    4300042: pasted__Rectangular Mullion 50mm x 150mm [556895]
+    4300044: pasted__Rectangular Mullion 50mm x 150mm [556896]
+    4300046: pasted__Rectangular Mullion 50mm x 150mm [556897]
+    4300048: pasted__Rectangular Mullion 50mm x 150mm [556898]
+    4300050: pasted__Rectangular Mullion 50mm x 150mm [556899]
+    4300052: pasted__Rectangular Mullion 50mm x 150mm [556900]
+    4300054: pasted__Rectangular Mullion 50mm x 150mm [556901]
+    4300056: pasted__Rectangular Mullion 50mm x 150mm [556915]
+    4300058: pasted__Rectangular Mullion 50mm x 150mm [556916]
+    4300060: pasted__Rectangular Mullion 50mm x 150mm [556918]
+    4300062: pasted__Rectangular Mullion 50mm x 150mm [556926]
+    4300064: pasted__Rectangular Mullion 50mm x 150mm [556927]
+    4300066: pasted__Rectangular Mullion 50mm x 150mm [556933]
+    4300068: pasted__Rectangular Mullion 50mm x 150mm [556945]
+    4300070: pasted__Rectangular Mullion 50mm x 150mm [556952]
+    4300072: pasted__Rectangular Mullion 50mm x 150mm [556953]
+    4300074: pasted__Rectangular Mullion 50mm x 150mm [556959]
+    4300076: pasted__Rectangular Mullion 50mm x 150mm [556960]
+    4300078: pasted__Rectangular Mullion 50mm x 150mm [556971]
+    4300080: pasted__Rectangular Mullion 50mm x 150mm [556972]
+    4300082: pasted__Rectangular Mullion 50mm x 150mm [556973]
+    4300084: pasted__Rectangular Mullion 50mm x 150mm [556974]
+    4300086: pasted__Rectangular Mullion 50mm x 150mm [556980]
+    4300088: pasted__Rectangular Mullion 50mm x 150mm [556981]
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
