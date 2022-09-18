@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/021220_SaveState12.unity
+  isLoaded: 1
+  isActive: 1
