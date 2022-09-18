@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 5dc1bd0ea2b8b7945bb9d63743b02ed2
+timeCreated: 1586871042
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - highlightMaterial: {fileID: 2100000, guid: 8b9baabad28a37345bd31d444dd6e04b, type: 2}
+  - defaultMATButton1: {fileID: 2100000, guid: 6526b1b2e5e114748bf8efc94e0a82d4, type: 2}
+  - defaultMATButton2: {fileID: 2100000, guid: 634c00bfaf3e20244b50eef0bd152f0a, type: 2}
+  - defaultMATButton3: {fileID: 2100000, guid: fd6ddc9a501882342a0fb2cfd486e511, type: 2}
+  - defaultMATButton4: {fileID: 2100000, guid: e42cb9aa411f20340ac4df69107d56ea, type: 2}
+  - defaultMATButton5: {fileID: 2100000, guid: 8adbc36b6d711ea468b05d8890f526d5, type: 2}
+  - defaultMATButton6: {fileID: 2100000, guid: 13a7bb98fb99f4d4d93dba0e4e06ce05, type: 2}
+  - Question2: {fileID: 1740178795650192, guid: 6bba28623885c4544a78c82b43c5c62f,
+      type: 2}
+  - ButtonQuest3: {fileID: 1818566291371816, guid: d68563228ab8bbc4a931aa1f9660af48,
+      type: 2}
+  - ButtonQuest4: {fileID: 1414336126063204, guid: db93a7b03b7c4c34fad419f7579b0af9,
+      type: 2}
+  - Question3: {fileID: 1212350449206012, guid: 5dd7b76e23c98bc41b5fe21b3a1c0c56,
+      type: 2}
+  - ButtonQuest5: {fileID: 1548122853539930, guid: cd22a6569985b49488761fb539b889ca,
+      type: 2}
+  - ButtonQuest6: {fileID: 1940868060466606, guid: 171a15197e9af984ebef2c5e49cae216,
+      type: 2}
+  - Question1: {fileID: 1217627111596870, guid: d67b13d03f09e8f47a2ac15209d8998d,
+      type: 2}
+  - ButtonQuest1: {fileID: 1634284799806086, guid: ae69270b2a6a9c1488e9b6da90289e0a,
+      type: 2}
+  - ButtonQuest2: {fileID: 1516309593940576, guid: 1646b16d319e5b44496546ca29dfb85a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

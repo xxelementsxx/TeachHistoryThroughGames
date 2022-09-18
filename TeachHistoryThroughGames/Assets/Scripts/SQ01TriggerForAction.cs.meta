@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 59155f43533e100468650fb07a1f8c82
+timeCreated: 1605210512
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Entscheidung01Lesen: {fileID: 1097973452591198, guid: bf7ea9f8ec42b3a4c841577f4ac3de61,
+      type: 2}
+  - "Entscheidung01H\xF6ren": {fileID: 1443078862529386, guid: f628fc4be1937d34abe877a58c1b08d3,
+      type: 2}
+  - "TriggerF\xFCrEntscheidung01": {fileID: 1932639942227690, guid: 5624e3c5905783b40babfa904b2f804f,
+      type: 2}
+  - highlightMaterialLesen: {fileID: 2100000, guid: 8b9baabad28a37345bd31d444dd6e04b,
+      type: 2}
+  - defaultMATLesen: {fileID: 2100000, guid: d2985de4f27bfa340a12c3ef95d47167, type: 2}
+  - "highlightMaterialH\xF6ren": {fileID: 2100000, guid: 735665606fda0c14cb12bc536aa26dc7,
+      type: 2}
+  - "defaultMATH\xF6ren": {fileID: 2100000, guid: a24037aa2dae5b145b048dcaf948032a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

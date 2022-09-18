@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ca4a73c22ed1ee40b602bd6784562a2
+timeCreated: 1585663676
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - doorHinge: {instanceID: 0}
+  - highlightMaterial: {fileID: 2100000, guid: 8b9baabad28a37345bd31d444dd6e04b, type: 2}
+  - defaultMaterial: {fileID: 2100000, guid: dc2ee29bf96fb85418221eb4f8811810, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

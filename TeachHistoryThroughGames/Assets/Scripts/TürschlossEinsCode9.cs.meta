@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62f5a5cb14f12a34392c9d56e3218af2
+timeCreated: 1606701645
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - "highlightMaterialT\xFCrschloss9": {fileID: 2100000, guid: 83454dcc0540807438a619a8106c3d0a,
+      type: 2}
+  - defaultMATCode9: {fileID: 2100000, guid: ef51702f38c6e1f43b47a60d4e9e7e83, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

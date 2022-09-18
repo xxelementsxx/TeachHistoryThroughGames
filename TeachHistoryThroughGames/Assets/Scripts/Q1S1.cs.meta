@@ -1,0 +1,78 @@
+fileFormatVersion: 2
+guid: 59825bcd29f7ba84fa333b42290cf15d
+timeCreated: 1606511123
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - defaultMATQ1S1F1A1: {fileID: 2100000, guid: 79062e8ee7d515c4ea56262c6a26549c,
+      type: 2}
+  - defaultMATQ1S1F1A2: {fileID: 2100000, guid: 251a2eed22435df45b4f6da54910525d,
+      type: 2}
+  - defaultMATQ1S1F1A3: {fileID: 2100000, guid: 50d5ab40adfdd0c4bbb098e245d1429f,
+      type: 2}
+  - defaultMATQ1S1F2A1: {fileID: 2100000, guid: f69caa91e19508241bd47aa2a3364022,
+      type: 2}
+  - defaultMATQ1S1F2A2: {fileID: 2100000, guid: d2279afe11e5fca49bd42919c5d6476c,
+      type: 2}
+  - defaultMATQ1S1F2A3: {fileID: 2100000, guid: a194504d4c96488448bb3dd140bce60b,
+      type: 2}
+  - defaultMATQ1S1F3A1: {fileID: 2100000, guid: dc597fd6c3589404f8223fecd6c5da0d,
+      type: 2}
+  - defaultMATQ1S1F3A2: {fileID: 2100000, guid: f6405a45600cb6141b2b51aa65ca8fc9,
+      type: 2}
+  - defaultMATQ1S1F3A3: {fileID: 2100000, guid: e8feb9093a6dc424eb4746dabcb3eabf,
+      type: 2}
+  - defaultMATQ1S1F4A1: {fileID: 2100000, guid: 57978af0040eb5241a4669422c4e3141,
+      type: 2}
+  - defaultMATQ1S1F4A2: {fileID: 2100000, guid: fa123938dd6053a4e843e60c63e2bef1,
+      type: 2}
+  - defaultMATQ1S1F4A3: {fileID: 2100000, guid: f6c4bfa10c9e4fa4c92f6fdb734d0c0f,
+      type: 2}
+  - highMATQ1S1F1A1: {fileID: 2100000, guid: 271e26dbb4ac84c41a20bcf76bff36c0, type: 2}
+  - highMATQ1S1F1A2: {fileID: 2100000, guid: 8c240a49b5a31904e83cdc8c559308c3, type: 2}
+  - highMATQ1S1F1A3: {fileID: 2100000, guid: a0ff7cc83643b4c46be5387f584715ac, type: 2}
+  - highMATQ1S1F2A1: {fileID: 2100000, guid: 399330b7438ba2b41aa759bc04e265dd, type: 2}
+  - highMATQ1S1F2A2: {fileID: 2100000, guid: 35304457b5b13d64b8c0321b158dbd77, type: 2}
+  - highMATQ1S1F2A3: {fileID: 2100000, guid: 4656ef8255540dd47a198f55f4719a84, type: 2}
+  - highMATQ1S1F3A1: {fileID: 2100000, guid: f24ce2c57eba8c14d901c3758d42acbe, type: 2}
+  - highMATQ1S1F3A2: {fileID: 2100000, guid: 3ca897f3e7831b04eb7de289405f144d, type: 2}
+  - highMATQ1S1F3A3: {fileID: 2100000, guid: a0ff7cc83643b4c46be5387f584715ac, type: 2}
+  - highMATQ1S1F4A1: {fileID: 2100000, guid: 399330b7438ba2b41aa759bc04e265dd, type: 2}
+  - highMATQ1S1F4A2: {fileID: 2100000, guid: 8888518ba2591d34caed79a6114b2525, type: 2}
+  - highMATQ1S1F4A3: {fileID: 2100000, guid: 4656ef8255540dd47a198f55f4719a84, type: 2}
+  - Q1S1F1: {fileID: 1875440433725864, guid: e94138e1364abf0418125488f3079431, type: 2}
+  - Q1S1F2: {fileID: 1709239485300358, guid: 339ba0789d4e5d4498f4bf3537ca14ca, type: 2}
+  - Q1S1F3: {fileID: 1487174637080082, guid: eff14a9fe62a9f94c9c716fa794502d4, type: 2}
+  - Q1S1F4: {fileID: 1687317564873220, guid: d6f60e542a2c014498d482f78419af47, type: 2}
+  - MeshQ1S1F1A1: {fileID: 1095540116943592, guid: b063553770780ca4a991a051f0e13f04,
+      type: 2}
+  - MeshQ1S1F1A2: {fileID: 1302956990130242, guid: 7e655ea36b1992942bd38b9c5adb98ad,
+      type: 2}
+  - MeshQ1S1F1A3: {fileID: 1605208432650302, guid: 086e29c10bfe3004a9f86fafdb0ba4fc,
+      type: 2}
+  - MeshQ1S1F2A1: {fileID: 1915959336028946, guid: 1ae8c85a6e9ab5640a2b60958a19f8c7,
+      type: 2}
+  - MeshQ1S1F2A2: {fileID: 1194292864903256, guid: 01631a40feb3e464a9e3b990ef69e79f,
+      type: 2}
+  - MeshQ1S1F2A3: {fileID: 1521429294948632, guid: 4f7827062fa206043b43c993a411acb1,
+      type: 2}
+  - MeshQ1S1F3A1: {fileID: 1531488542383494, guid: 0af7e93510698f347876e7d1ad81b2dd,
+      type: 2}
+  - MeshQ1S1F3A2: {fileID: 1885415577918258, guid: 1d73d1e3d946a834689fe73d87d02cb8,
+      type: 2}
+  - MeshQ1S1F3A3: {fileID: 1141999462722164, guid: bd728825d7f3cbb42aeba537100145d9,
+      type: 2}
+  - MeshQ1S1F4A1: {fileID: 1960878576769336, guid: 19681231f09ca4941b3b61033b241229,
+      type: 2}
+  - MeshQ1S1F4A2: {fileID: 1414565396219852, guid: d36bf24601d4f5d48b7e339d7a5c93b9,
+      type: 2}
+  - MeshQ1S1F4A3: {fileID: 1255544753846182, guid: 89e7bd0f85b7fe34b810bd65d9a64659,
+      type: 2}
+  - MeshHandlungsanweisungQ1S1: {fileID: 1955643251879026, guid: 1529273ac53803a43a10a2f7a9a24106,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
